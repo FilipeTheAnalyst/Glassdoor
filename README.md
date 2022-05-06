@@ -1,4 +1,7 @@
 # Glassdoor Reviews
+
+![image](https://user-images.githubusercontent.com/61323876/167224568-8e9573f8-0923-4720-b76e-f995dc6630f1.png)
+
 ```
 A Jupyter Notebook that:
     1) Reviews.ipynb - Search Reviews on Glassdoor website for a specific company.
