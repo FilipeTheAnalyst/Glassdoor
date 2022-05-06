@@ -4,7 +4,7 @@
 
 ```
 A Jupyter Notebook that:
-    1) Reviews.ipynb - Search Reviews on Glassdoor website for a specific company.
+    1) Reviews.ipynb - Search Reviews on Glassdoor website for a specific company and perform Sentiment Analysis.
 ```
 # ✨ Background
 
@@ -16,3 +16,6 @@ Prerequisites: Python installed and environment established with packages seleni
 
 1) [Download your appropriate chromedriver](https://chromedriver.chromium.org/downloads) and save it to this repository.
 2) Adjust the variables first_url and url to the company you're looking for. (in my code I'm using Revolut)
+
+### Dashboard
+Created a Dashboard in Power BI with some key information. Click [here](https://app.powerbi.com/view?r=eyJrIjoiNTVlNTVhNDUtMDg4ZC00OWRjLWI2YjctZmYwZDE4YzVlZTMwIiwidCI6IjBiZmE4NTAwLWIxZjItNDU2Ni1iYWYxLTZmNTkzNzA4OTNlNyIsImMiOjh9) to access.
