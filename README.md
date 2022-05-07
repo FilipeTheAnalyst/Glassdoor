@@ -18,4 +18,4 @@ Prerequisites: Python installed and environment established with packages seleni
 2) Adjust the variables first_url and url to the company you're looking for. (in my code I'm using Revolut)
 
 ### Dashboard
-Created a Dashboard in Power BI with some key information. Click [here](https://app.powerbi.com/view?r=eyJrIjoiNTVlNTVhNDUtMDg4ZC00OWRjLWI2YjctZmYwZDE4YzVlZTMwIiwidCI6IjBiZmE4NTAwLWIxZjItNDU2Ni1iYWYxLTZmNTkzNzA4OTNlNyIsImMiOjh9) to access.
+Created a Dashboard in Power BI with some key information. Click [here](https://app.powerbi.com/view?r=eyJrIjoiZjg4MmJlNWEtMWE2Yy00NzkwLWFiMDctNWYwMGVkZmMwNTBjIiwidCI6IjBiZmE4NTAwLWIxZjItNDU2Ni1iYWYxLTZmNTkzNzA4OTNlNyIsImMiOjh9) to access.
