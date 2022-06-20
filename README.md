@@ -16,9 +16,10 @@ Prerequisites: Python installed and environment established with packages seleni
 
 1) [Download your appropriate chromedriver](https://chromedriver.chromium.org/downloads) and save it to this repository.
 2) Download the following python libraries:
-    1) pandas
-    2) selenium
-    3) huggingface_hub
+    1) pandas (Working with tabular data - Dataframes)
+    2) selenium (Web scraping)
+    3) huggingface_hub (sentiment analysis model)
+    4) nltk (natural language processing toolkit)
 4) Adjust the variables first_url and url to the company you're looking for. (in my code I'm using Revolut)
 
 ### Dashboard
